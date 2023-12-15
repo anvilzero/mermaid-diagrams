@@ -45,6 +45,6 @@ flowchart LR
         HDD_POOL["`fa:fa-hdd 8TB HDD Pool
             2x 8TB 3.5in SATA`"]
         NET[fa:fa-network-wired 2x 2.5Gbe Network]
-        HYPERVISOR(<b>Hypervisor: Proxmox<b> <a href='https://github.com/anvilzero/mermaid-diagrams/blob/main/sandcastle-hypervisor.md'>Hypervisor-Proxmox</a>)
+        HYPERVISOR(<a href='https://github.com/anvilzero/mermaid-diagrams/blob/main/sandcastle-hypervisor.md'>Hypervisor-Proxmox</a>)
     end
 ```
